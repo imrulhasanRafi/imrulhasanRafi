@@ -19,11 +19,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imrulhasanrafi&show_icons=true&theme=tokyonight" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arasruislam&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imrulhasanrafi&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arasruislam&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imrulhasanrafi&theme=tokyonight" height="180" />
 </p>
 
 ---
